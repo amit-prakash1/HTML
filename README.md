@@ -1,2 +1,2 @@
 # HTML
-contains lot of html files
+Contains lot of html folder.
